@@ -1,2 +1,2 @@
-test:
-  id: 999999
+image:
+  server: http://image.com
